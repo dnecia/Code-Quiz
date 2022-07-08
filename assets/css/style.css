@@ -1,4 +1,5 @@
 :root{
+    /* Page background*/
     background-color: white;
 }
 * {
@@ -8,7 +9,7 @@
     font-size: 62.5%;
     font-family: helvetica;
 }
-
+  /* Heading "Code Quiz" and explaination*/
 h1 {
     font-size: 5.4rem;
     color: black;
@@ -56,7 +57,7 @@ h5{
 .hidden{
     display: none;
 }
-
+  /* Start Quiz button*/
 .btn{
     font-size: 2.4rem;
     padding: 2rem 0;
@@ -75,7 +76,7 @@ h5{
 .btn[disabled]:hover{
     cursor: not-allowed;
 }
-
+  /*High Score button*/
 #highscore-btn{
     font-size: 15px;
 }
