@@ -76,8 +76,8 @@ h5{
     cursor: not-allowed;
 }
 
-#hoghscore-btn{
-    background-color: blue;
+#highscore-btn{
+    font-size: 15px;
 }
 #highscore-btn:hover{
     box-shadow: 0 0.4 1.4rem 0 blue;
